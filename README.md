@@ -155,10 +155,6 @@ This repository is a **documented case study**, not a reproducible build or soft
 
 The original team's German-English project report includes the project goals, day-by-day development log, technical issues, and the final outcome: **[Read the bilingual project documentation (PDF)](docs/original-project-documentation.pdf)**.
 
-## Acknowledgements
-
-This was a shared project by **Dana, Manni, Nikita and Nick** (as credited on the team's enclosure), developed during an **Erasmus+ vocational education mobility in Slovakia, September 2026**. Thanks to everyone involved in planning, fabrication, technical troubleshooting and the final presentation.
-
 ---
 
 <sub>Documentation maintained as part of my IT systems integration learning portfolio. Media and technical work are shared here for educational project presentation; no license for reuse is granted.</sub>
